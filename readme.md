@@ -1,6 +1,7 @@
 # Car Game README
 
 Repository ini berisi kode untuk permainan mobil sederhana yang dibuat menggunakan Three.js dan Cannon.js. Permainan ini memiliki fitur kendali mobil oleh pemain dan rintangan yang ditempatkan di sepanjang jalan.
+<img width="938" alt="image" src="https://github.com/Manchadas/CarGameGrafkom/assets/89269231/a6e4075a-b522-434e-ba43-49ea4dce2632">
 
 ## Kontrol Permainan
 - Gunakan tombol W, A, S, D untuk mengendalikan pergerakan mobil.
